@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NiloufarSheyd
-- 👀 I’m interested in web programming using HTML,CSS, JavaScript, React Js
-- 🌱 I’m currently learning Sass,Ajax,Jquery
+- 👀 I’m interested in web programming using HTML,CSS, JavaScript, Sass,Ajax,Jquery
+- 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
