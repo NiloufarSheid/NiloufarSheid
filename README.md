@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NiloufarSheyd
-- 👀 I’mFront-end developer | Crafting user experiences with HTML, CSS, JavaScript, React, and Next.js | Passionate about creating seamless interfaces | Collaborating on innovative projects
+- I’mFront-end developer | Crafting user experiences with HTML, CSS, JavaScript, React, and Next.js | Passionate about creating seamless interfaces | Collaborating on innovative projects
 
 <!---
 NiloufarSheid/NiloufarSheid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
