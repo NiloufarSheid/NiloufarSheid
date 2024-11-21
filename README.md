@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @NiloufarSheyd
-- 👀 I’m interested in web programming using HTML,CSS, JavaScript, React.Js 
-- 🌱 I’m currently working with React Js
-- 💞️ I’m interested to collaborate on web design using react.js, next.js
-- 📫 How to reach me ...
+- 👀 I’mFront-end developer | Crafting user experiences with HTML, CSS, JavaScript, React, and Next.js | Passionate about creating seamless interfaces | Collaborating on innovative projects
 
 <!---
 NiloufarSheid/NiloufarSheid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
